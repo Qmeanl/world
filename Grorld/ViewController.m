@@ -18,6 +18,8 @@
     // Do any additional setup after loading the view.
     NSLog(@"master 1");
     NSLog(@"test  1");
+    NSLog(@"test  2");
+    
 }
 
 
