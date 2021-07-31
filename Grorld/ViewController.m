@@ -19,6 +19,7 @@
     NSLog(@"master 1");
     NSLog(@"test  1");
     NSLog(@"test  2");
+    NSLog(@"test  3");
     
 }
 
