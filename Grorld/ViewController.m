@@ -23,6 +23,7 @@
     NSLog(@"test  4");
     NSLog(@"master 2");
     NSLog(@"test1  5");
+    NSLog(@"test1  6");
 }
 
 
