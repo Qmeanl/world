@@ -1,5 +1,17 @@
-<<<<<<< HEAD
-Grorld.xcodeproj/project.xcworkspace/xcuserdata/huangxiaohua.xcuserdatad/UserInterfaceState.xcuserstate
-=======
-Grorld.xcodeproj/project.xcworkspace/xcuserdata/huangxiaohua.xcuserdatad/UserInterfaceState.xcuserstate
->>>>>>> add test 2
+xcuserdata
+imo.xccheckout
+/scripts/build/git_sync.sh
+.reviewboardrc
+*.pyc
+.*.swp
+*~
+.DS_Store
+ipa_size.csv
+tmpunpack
+buildexported
+imo.im/ABTestConfig.txt
+imo.im/imo.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+imo.im/imo.ipad.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+imo.im/imo.ipad.xcodeproj/project.xcworkspace/xcshareddata/imo.ipad.xccheckout
+nerv.podspec.json
+imo.im/Pods
